@@ -51,6 +51,7 @@ React Query provides the `useQuery` hook, which helps manage asynchronous data f
             export default UsersList;
 
 useMutation: Handling Data Mutations ✏️
+
 For creating, updating, or deleting data, React Query provides the useMutation hook. Unlike useQuery, which is used for fetching data, useMutation is used for modifying server-side data.
 
 Example Usage of useMutation:
@@ -88,8 +89,10 @@ Example Usage of useMutation:
             export default AddUserForm;
 
 Conclusion 🎉
+
 React Query simplifies data fetching and state management in React applications. With built-in caching, background updates, and error handling, it significantly improves performance and user experience. Whether you're fetching, updating, or caching data, React Query is a must-have tool for modern web development!
 
 Further Reading 📚
+
 For a deeper dive into React Query, check out this comprehensive article on Medium: [React Query: The Ultimate Guide to Data Fetching in React.](https://medium.com/@designweb.azadeh/react-query-supercharge-your-react-app-with-react-query-962a38f1cd79)
 
